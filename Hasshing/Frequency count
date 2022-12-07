@@ -1,6 +1,7 @@
 
 //find the frequency of each element using hashing 
 //Time complexity O(N)
+//Space complexity O(N)
 
 
 import java.util.HashMap;
